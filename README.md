@@ -10,4 +10,7 @@ Item Rarity Percentile is calculated by taking the sum of [rarity scores](https:
 Skill Rarity Percentile is calculated by taking each of a pirate's skills and percent-ranking them against the skills of other pirates. Then the sum of the inverses of 1 minus the percentiles of each skill for a pirate is taken and percent-ranked against all other pirates. The higher percent, the more skiled/more rare.
 
 Tips are appreciated!
-MOVR/ETH address: 0x2C3619482FCe6a81a8954ca967986F4eAa29eE17
+
+MOVR/ETH address: **0x2C3619482FCe6a81a8954ca967986F4eAa29eE17**
+
+KSM address: **GqC37KSFFeGAoL7YxSeP1YDwr85WJvLmDDQiSaprTDAm8Jj**
